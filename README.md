@@ -6,6 +6,6 @@ because i can not upload it to GitHub due to its large size(more than 100MB).
 
 But Dataset and code is shared so it will be easy for you to train model.
 
-Or If you want the model , You can drop me an email on vasugarg719@gmail.com 
+Or If you want the model , You can drop me an mail on vasugarg719@gmail.com 
 
 
